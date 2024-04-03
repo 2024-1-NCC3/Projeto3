@@ -1,0 +1,54 @@
+{
+"PerguntasB":[
+  {
+    "pergunta": "",
+    "opcoes_resposta": [""],
+    "resposta_correta": "2",
+    "explicacao": "",
+    "nivel_dificuldade": ""
+  },
+  {
+    "pergunta": "Qual atributo é usado para definir o título de uma página HTML?",
+    "opcoes_resposta": ["title", "name", "header", "caption"],
+    "resposta_correta": "1",
+    "explicacao": "O atributo 'title' é usado para definir o título de uma página HTML.",
+    "nivel_dificuldade": "Fácil"
+  },
+  {
+    "pergunta": "Qual elemento HTML é utilizado para definir uma lista ordenada?",
+    "opcoes_resposta": ["<ul>", "<ol>", "<li>", "<dl>"],
+    "resposta_correta": "2",
+    "explicacao": "O elemento <ol> é usado em HTML para criar listas ordenadas, onde os itens são numerados. Cada item da lista é representado pelo elemento <li>",
+    "nivel_dificuldade": "Fácil"
+  },
+  {
+    "pergunta": "Qual tag é usada para criar um link em HTML?",
+    "opcoes_resposta": ["<a>", "<link>", "<href>", "<url>"],
+    "resposta_correta": "1",
+    "explicacao": "A tag <a> é usada para criar links em HTML.",
+    "nivel_dificuldade": "Fácil"
+  },
+  {
+    "pergunta": "Como você pode definir uma imagem em uma página HTML?",
+    "opcoes_resposta": ["<src=\"caminho_para_imagem.png\">","<image>url_da_imagem</image>","<picture>imagem_aqui</picture>","<img src=\"caminho_para_imagem.png\">\n"],
+    "resposta_correta": "4",
+    "explicacao": " A tag <img> é usada para incorporar imagens em uma página HTML. O atributo src especifica o caminho para a imagem que será exibida.",
+    "nivel_dificuldade": "Fácil"
+  },
+  {
+    "pergunta": "Qual é a tag usada para criar um título de nível 1 em HTML?",
+    "opcoes_resposta": ["<title>","<header>","<h1>","<heading>"],
+    "resposta_correta": "3",
+    "explicacao": "A tag <h1> é usada para definir o título de nível 1 em HTML, representando o título mais importante em uma página.",
+    "nivel_dificuldade": "Básico"
+  },
+  {
+    "pergunta": "Como você cria uma quebra de linha em HTML?",
+    "opcoes_resposta": ["<break>","<br>","<lb>","<newline>"],
+    "resposta_correta": "2",
+    "explicacao": "<br> é usada para criar uma quebra de linha em HTML, permitindo que o conteúdo seguinte apareça em uma nova linha.",
+    "nivel_dificuldade": "Básico"
+  }
+]
+
+}

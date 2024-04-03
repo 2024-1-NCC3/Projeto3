@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LayoutBasico"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:visibility="visible"
+    tools:context=".basico">
+
+    <TextView
+        android:id="@+id/Acertos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Acertos"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/textViewPergunta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Boa Sorte!"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <RadioGroup
+        android:id="@+id/radioGroupRespostas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/radioButton5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pronto?" />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/TextsobB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pressione este botão para pergunta" />
+
+    <Button
+        android:id="@+id/buttonProximaPergunta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Começar" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="255dp"
+        android:text="TextView" />
+
+    <Button
+        android:id="@+id/btnVoltarParaMain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Voltar ao Menu" />
+
+
+</LinearLayout>
+
