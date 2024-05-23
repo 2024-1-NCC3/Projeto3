@@ -1,18 +1,16 @@
 FECAP - Fundação de Comércio Álvares Penteado
 FECAP - Fundação de Comércio Álvares Penteado
 
-Nome do Projeto
-Nome do Grupo
-Integrantes: Goku Sayajin, Saitama One, Ikki de Fenix, Yusuke Urameshi, Roronoa Zoro
-Professores Orientadores: Dr. Victor Von Doom, Me. Saitama, Dr. Strange, Me. Yoda, Dr. Gero
+EducAção
+Grupo 3-Dev.Depressão
+Integrantes: Giulia Nogueira, Cassio Gama, Heitor Cavalcanti e Rafaella Morelli.
+Professores Orientadores: Victor Quiroz
 Descrição
-NOME DO JOGO Game by Nick Youngson CC BY-SA 3.0 Pix4free
+EducAção App by Dev.Depressão CC BY-SA 3.0 Pix4free
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+O aplicativo Educação foi cuidadosamente desenvolvido para estudantes da área de Tecnologia da Informação que desejam aprofundar seus conhecimentos sobre a linguagem de marcação HTML. Este aplicativo é uma ferramenta educacional abrangente, projetada para proporcionar um aprendizado estruturado e progressivo, atendendo às necessidades de alunos em diferentes níveis de competência. Ao iniciar sua jornada no aplicativo, os usuários têm acesso a três fases distintas, cada uma focada em aspectos específicos do HTML. A primeira fase é dedicada a perguntas fáceis, especialmente formuladas para iniciantes que estão começando a se familiarizar com os conceitos básicos do HTML, como a criação de tags básicas, estruturação de documentos, inserção de links, imagens e listas.
 
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-
-May the force be with you!
+Na segunda fase, o aplicativo introduz perguntas intermediárias, projetadas para aqueles que já possuem uma compreensão básica do HTML e estão prontos para explorar conceitos mais complexos, como o uso de formulários, tabelas, elementos de mídia e atributos avançados de tags. A terceira fase é composta por perguntas avançadas, destinadas a estudantes que já têm uma boa compreensão dos conceitos básicos e intermediários e estão prontos para enfrentar problemas mais complexos, como a utilização de APIs HTML5, técnicas de acessibilidade e otimização de performance de páginas web. Além das três fases dedicadas ao HTML, o aplicativo Educação também oferece uma fase exclusiva focada no CSS (Cascading Style Sheets), a linguagem de estilo usada para definir a aparência visual das páginas web, abrangendo desde conceitos básicos até técnicas avançadas de design responsivo, animações e transformações.
 
 
 🛠 Estrutura de pastas
