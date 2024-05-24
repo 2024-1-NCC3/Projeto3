@@ -22,24 +22,19 @@ Na segunda fase, o aplicativo introduz perguntas intermediárias, projetadas par
 |-->executáveis
  |-->windows
  |-->android
- |-->HTML
-|-->imagens
 |-->src
  |-->Backend
  |-->Frontend
 |readme.md
 
-A pasta raiz contem dois arquivos que devem ser alterados:
-
 README.MD: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
 
-Há também 4 pastas que seguem da seguinte forma:
+Há 4 pastas que seguem da seguinte forma:
 
 documentos: Toda a documentação estará nesta pasta.
 
 executáveis: Binários e executáveis do projeto devem estar nesta pasta.
 
-imagens: Imagens do sistema
 
 src: Pasta que contém o código fonte.
 
@@ -51,23 +46,17 @@ Faça o Download do JOGO.apk no seu celular. Execute o APK e siga as instruçõe
 Coloque código do prompt de comnando se for necessário
 Windows:
 
-Não há instalação! Apenas executável! Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+Não há xecutável! Apenas o prjeto! Encontre o NI-projeto completo e execute-o como qualquer outro programa android studio.
 
 Coloque código do prompt de comnando se for necessário
-HTML:
-
-Não há instalação! Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
 
 💻 Configuração para Desenvolvimento
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
+
 
 Para abrir este projeto você necessita das seguintes ferramentas:
 
--GODOT
+-Android Studio
 
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
 🗃 Histórico de lançamentos
 A cada atualização os detalhes devem ser lançados aqui.
 
@@ -84,11 +73,11 @@ MUDANÇA: Renomeia foo() para bar()
 0.0.1 - 01/01/2022
 Trabalho em andamento
 📋 Licença/License
+CC BY-SA.
 🎓 Referências
 Aqui estão as referências usadas no projeto.
 
 https://github.com/iuricode/readme-template
 https://github.com/gabrieldejesus/readme-model
 https://creativecommons.org/share-your-work/
-https://freesound.org/
-Músicas por: DaveJf e DRFX ambas com Licença CC 0.
+
