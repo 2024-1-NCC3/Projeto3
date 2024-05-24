@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTint="#FFFAFA"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Escolha uma opção"
+        android:textAlignment="center"
+        android:textColor="#213D55"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnIrParaBasico"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#4682B4"
+        android:text="Basico" />
+
+    <Button
+        android:id="@+id/BtnInter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#4682B4"
+        android:text="Intermediário" />
+
+    <Button
+        android:id="@+id/BtnAvan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#4682B4"
+        android:text="Avançado" />
+
+    <Button
+        android:id="@+id/BtnCss"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#4682B4"
+        android:shadowColor="#04682B"
+        android:text="CSS"
+        app:strokeColor="#4682B4" />
+
+</LinearLayout>
