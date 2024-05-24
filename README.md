@@ -22,24 +22,19 @@ Na segunda fase, o aplicativo introduz perguntas intermediárias, projetadas par
 |-->executáveis
  |-->windows
  |-->android
- |-->HTML
-|-->imagens
 |-->src
  |-->Backend
  |-->Frontend
 |readme.md
 
-A pasta raiz contem dois arquivos que devem ser alterados:
-
 README.MD: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
 
-Há também 4 pastas que seguem da seguinte forma:
+Há 4 pastas que seguem da seguinte forma:
 
 documentos: Toda a documentação estará nesta pasta.
 
 executáveis: Binários e executáveis do projeto devem estar nesta pasta.
 
-imagens: Imagens do sistema
 
 src: Pasta que contém o código fonte.
 
@@ -48,47 +43,34 @@ Android:
 
 Faça o Download do JOGO.apk no seu celular. Execute o APK e siga as instruções de seu telefone.
 
-Coloque código do prompt de comnando se for necessário
 Windows:
 
-Não há instalação! Apenas executável! Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+Não há xecutável! Apenas o prjeto! Encontre o NI-projeto completo e execute-o como qualquer outro programa android studio.
 
 Coloque código do prompt de comnando se for necessário
-HTML:
-
-Não há instalação! Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
 
 💻 Configuração para Desenvolvimento
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
+
 
 Para abrir este projeto você necessita das seguintes ferramentas:
 
--GODOT
+-Android Studio
 
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
 🗃 Histórico de lançamentos
 A cada atualização os detalhes devem ser lançados aqui.
 
-0.2.1 - 25/01/2022
-MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
-0.2.0 - 15/01/2022
-MUDANÇA: Remove setDefaultXYZ()
-ADD: Adiciona init()
-0.1.1 - 11/01/2022
-CONSERTADO: Crash quando chama baz() (Obrigado @NomeDoContribuidorGeneroso!)
-0.1.0 - 10/01/2022
+
 O primeiro lançamento adequado
-MUDANÇA: Renomeia foo() para bar()
-0.0.1 - 01/01/2022
+MUDANÇA: Lançamento completo
+0.1.0 - 24/05/2024
 Trabalho em andamento
 📋 Licença/License
+EducAção © 2024 by Heitor Cavalcanti, Giulia Nogueira e Rafaella Morelli is licensed under CC BY 4.0 
 🎓 Referências
 Aqui estão as referências usadas no projeto.
 
 https://github.com/iuricode/readme-template
 https://github.com/gabrieldejesus/readme-model
 https://creativecommons.org/share-your-work/
-https://freesound.org/
-Músicas por: DaveJf e DRFX ambas com Licença CC 0.
+https://google.github.io/styleguide/htmlcssguide.html
+
