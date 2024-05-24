@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTint="#FFFAFA"
+    android:orientation="vertical"
+    tools:context=".Css">
+
+    <TextView
+        android:id="@+id/Acertosc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Acertos"
+        android:visibility="visible" />
+
+    <TextView
+        android:id="@+id/TXTpndc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Este é o modelo que será usado, boa sorte!!"
+        android:textAlignment="center"
+        android:textColor="#213D55"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewPerguntac"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <RadioGroup
+        android:id="@+id/radioGroupRespostasc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/radioButton5c"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pronto?"
+            android:textColor="#213D55" />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/Textsobc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pressione este botão para pergunta" />
+
+    <Button
+        android:id="@+id/buttonProximaPerguntac"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#4682B4"
+        android:text="Começar" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="255dp" />
+
+    <Button
+        android:id="@+id/btnVoltarParaMainc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#4682B4"
+        android:text="Voltar ao Menu" />
+
+
+</LinearLayout>
