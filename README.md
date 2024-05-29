@@ -63,6 +63,9 @@ A cada atualização os detalhes devem ser lançados aqui.
 O primeiro lançamento adequado
 MUDANÇA: Lançamento completo
 0.1.0 - 24/05/2024
+Correção rápida:
+Ajuste no nome da pasta Executável (16:00h) 
+0.1.01 - 24/05/2024
 Trabalho em andamento
 📋 Licença/License
 EducAção © 2024 by Heitor Cavalcanti, Giulia Nogueira e Rafaella Morelli is licensed under CC BY 4.0 
